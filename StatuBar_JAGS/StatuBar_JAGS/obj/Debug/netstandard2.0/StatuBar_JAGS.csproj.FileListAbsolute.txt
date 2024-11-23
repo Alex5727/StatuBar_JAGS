@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\StatuBar_JAGS\StatuBar_JAGS\StatuBar_JAGS\bin\Debug\netstandard2.0\StatuBar_JAGS.deps.json
+C:\Users\pc\source\repos\StatuBar_JAGS\StatuBar_JAGS\StatuBar_JAGS\bin\Debug\netstandard2.0\StatuBar_JAGS.dll
+C:\Users\pc\source\repos\StatuBar_JAGS\StatuBar_JAGS\StatuBar_JAGS\bin\Debug\netstandard2.0\ref\StatuBar_JAGS.dll
+C:\Users\pc\source\repos\StatuBar_JAGS\StatuBar_JAGS\StatuBar_JAGS\bin\Debug\netstandard2.0\StatuBar_JAGS.pdb
+C:\Users\pc\source\repos\StatuBar_JAGS\StatuBar_JAGS\StatuBar_JAGS\obj\Debug\netstandard2.0\StatuBar_JAGS.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\StatuBar_JAGS\StatuBar_JAGS\StatuBar_JAGS\obj\Debug\netstandard2.0\StatuBar_JAGS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\StatuBar_JAGS\StatuBar_JAGS\StatuBar_JAGS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pc\source\repos\StatuBar_JAGS\StatuBar_JAGS\StatuBar_JAGS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pc\source\repos\StatuBar_JAGS\StatuBar_JAGS\StatuBar_JAGS\obj\Debug\netstandard2.0\StatuBar_JAGS.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\StatuBar_JAGS\StatuBar_JAGS\StatuBar_JAGS\obj\Debug\netstandard2.0\StatuBar_JAGS.AssemblyInfo.cs
+C:\Users\pc\source\repos\StatuBar_JAGS\StatuBar_JAGS\StatuBar_JAGS\obj\Debug\netstandard2.0\StatuBar_JAGS.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\StatuBar_JAGS\StatuBar_JAGS\StatuBar_JAGS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pc\source\repos\StatuBar_JAGS\StatuBar_JAGS\StatuBar_JAGS\obj\Debug\netstandard2.0\StatuBar_JAGS.dll
+C:\Users\pc\source\repos\StatuBar_JAGS\StatuBar_JAGS\StatuBar_JAGS\obj\Debug\netstandard2.0\refint\StatuBar_JAGS.dll
+C:\Users\pc\source\repos\StatuBar_JAGS\StatuBar_JAGS\StatuBar_JAGS\obj\Debug\netstandard2.0\StatuBar_JAGS.pdb

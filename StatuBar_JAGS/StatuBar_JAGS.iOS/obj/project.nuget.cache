@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ESH1lMBGYiE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\source\\repos\\StatuBar_JAGS\\StatuBar_JAGS\\StatuBar_JAGS.iOS\\StatuBar_JAGS.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
