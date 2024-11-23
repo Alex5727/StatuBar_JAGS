@@ -26,8 +26,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,7 +40,7 @@
               "RelativeDocumentMoniker": "StatuBar_JAGS\\StatuBar_JAGS\\MainPage.xaml",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\StatuBar_JAGS\\StatuBar_JAGS\\StatuBar_JAGS\\MainPage.xaml",
               "RelativeToolTip": "StatuBar_JAGS\\StatuBar_JAGS\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-23T07:16:53.888Z",
               "EditorCaption": ""
@@ -51,8 +55,7 @@
               "RelativeToolTip": "StatuBar_JAGS\\StatuBar_JAGS\\VistaModelo\\VMmainpage.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAA8wCcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T07:19:39.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T07:19:39.657Z"
             },
             {
               "$type": "Document",
@@ -64,8 +67,7 @@
               "RelativeToolTip": "StatuBar_JAGS\\StatuBar_JAGS.Android\\Statusbar\\StatusBar.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T03:24:30.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T03:24:30.403Z"
             },
             {
               "$type": "Document",
